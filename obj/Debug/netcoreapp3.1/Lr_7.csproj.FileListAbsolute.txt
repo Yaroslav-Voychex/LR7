@@ -1,0 +1,15 @@
+C:\Users\Yarick\Downloads\Lab__07-main\Lab__07-main\bin\Debug\netcoreapp3.1\Lr_7.exe
+C:\Users\Yarick\Downloads\Lab__07-main\Lab__07-main\bin\Debug\netcoreapp3.1\Lr_7.deps.json
+C:\Users\Yarick\Downloads\Lab__07-main\Lab__07-main\bin\Debug\netcoreapp3.1\Lr_7.runtimeconfig.json
+C:\Users\Yarick\Downloads\Lab__07-main\Lab__07-main\bin\Debug\netcoreapp3.1\Lr_7.runtimeconfig.dev.json
+C:\Users\Yarick\Downloads\Lab__07-main\Lab__07-main\bin\Debug\netcoreapp3.1\Lr_7.dll
+C:\Users\Yarick\Downloads\Lab__07-main\Lab__07-main\bin\Debug\netcoreapp3.1\Lr_7.pdb
+C:\Users\Yarick\Downloads\Lab__07-main\Lab__07-main\obj\Debug\netcoreapp3.1\Lr_7.csproj.AssemblyReference.cache
+C:\Users\Yarick\Downloads\Lab__07-main\Lab__07-main\obj\Debug\netcoreapp3.1\Lr_7.fMain.resources
+C:\Users\Yarick\Downloads\Lab__07-main\Lab__07-main\obj\Debug\netcoreapp3.1\Lr_7.csproj.GenerateResource.cache
+C:\Users\Yarick\Downloads\Lab__07-main\Lab__07-main\obj\Debug\netcoreapp3.1\Lr_7.AssemblyInfoInputs.cache
+C:\Users\Yarick\Downloads\Lab__07-main\Lab__07-main\obj\Debug\netcoreapp3.1\Lr_7.AssemblyInfo.cs
+C:\Users\Yarick\Downloads\Lab__07-main\Lab__07-main\obj\Debug\netcoreapp3.1\Lr_7.csproj.CoreCompileInputs.cache
+C:\Users\Yarick\Downloads\Lab__07-main\Lab__07-main\obj\Debug\netcoreapp3.1\Lr_7.dll
+C:\Users\Yarick\Downloads\Lab__07-main\Lab__07-main\obj\Debug\netcoreapp3.1\Lr_7.pdb
+C:\Users\Yarick\Downloads\Lab__07-main\Lab__07-main\obj\Debug\netcoreapp3.1\Lr_7.genruntimeconfig.cache
